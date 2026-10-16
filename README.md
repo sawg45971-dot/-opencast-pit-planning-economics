@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120">
+</p>
+
 # Opencast Pit Planning & Economics Study
 
 An Excel model that takes a coal deposit from **borehole data to a go/no-go answer**: how much coal is in the pit, which blocks are worth mining, how steep the walls can be, how many machines are needed, whether blasting is safe, and what the project is worth after tax (NPV, IRR, payback).
